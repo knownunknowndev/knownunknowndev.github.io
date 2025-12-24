@@ -26,3 +26,7 @@ weight = 2
 name = "About"
 url = "/about/"
 weight = 3
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
