@@ -1,0 +1,28 @@
+baseURL = 'https://knownunknown.dev/'
+languageCode = 'en-us'
+title = 'Known Unknown . Dev'
+theme = 'hugo-coder'
+
+
+[params]
+author = "Krishna Chaitanya Telikicherla"
+info = ["Security engineering · Leadership . AI augmentation . Systems . Chess"]
+description = "Essays on adversarial systems and human–machine reasoning. Notes live in the garden."
+avatarURL = "images/krishna-profile-pic.jpg"
+
+# Menu links
+
+[[menu.main]]
+name = "Blog"
+url = "https://blog.knownunknown.dev/"
+weight = 1
+
+[[menu.main]]
+name = "Garden"
+url = "https://garden.knownunknown.dev/"
+weight = 2
+
+[[menu.main]]
+name = "About"
+url = "/about/"
+weight = 3
