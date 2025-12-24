@@ -7,7 +7,7 @@ theme = 'hugo-coder'
 [params]
 author = "Krishna Chaitanya Telikicherla"
 info = ["Security engineering · Leadership . AI augmentation . Systems . Chess"]
-description = "I'm Krishna Chaitanya Telikicherla. I work in security engineering, with a focus on penetration testing, leadership, and augmenting security engineers with AI. I also have a strong interest in systems thinking, metacognition, and chess. This site is where finished ideas and half-formed thinking coexist. The blog holds longer reflections. The garden holds notes, ideas, and things still forming."
+description = "I'm Krishna Chaitanya Telikicherla. I work in security engineering, with a focus on penetration testing/application security, leadership, and augmenting security engineers with AI. I also have a strong interest in systems thinking, metacognition, and chess. This site is where finished ideas and half-formed thinking coexist. The blog holds longer reflections. The garden holds notes, ideas, and things still forming."
 avatarURL = "images/krishna-profile-pic.jpg"
 
 # Menu links
